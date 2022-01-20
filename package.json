@@ -17,7 +17,7 @@
     "mousetrap": "^1.6.5",
     "pdfjs-dist": "^2.6.347",
     "postcss-preset-env": "^6.7.0",
-    "prop-types": "^15.7.2",
+    "prop-types": "^15.8.1",
     "rails-erb-loader": "^5.5.2",
     "react": "^16.14.0",
     "react-chartjs-2": "^3.0.3",
