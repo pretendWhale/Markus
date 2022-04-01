@@ -6179,10 +6179,10 @@ react-table@^6.11.5:
     classnames "^2.2.5"
     react-is "^16.8.1"
 
-react-tabs@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/react-tabs/-/react-tabs-3.2.2.tgz#07bdc3cdb17bdffedd02627f32a93cd4b3d6e4d0"
-  integrity sha512-/o52eGKxFHRa+ssuTEgSM8qORnV4+k7ibW+aNQzKe+5gifeVz8nLxCrsI9xdRhfb0wCLdgIambIpb1qCxaMN+A==
+react-tabs@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/react-tabs/-/react-tabs-4.2.0.tgz#96090358ee086b4bd4386d27cf5ae03a391101d1"
+  integrity sha512-3DifAM5Xbi4EzdzPsmJTxdiW0/QRqvtOZ+ubWQrlruG/e3WVQo+hVcqGB/GdwL8WNz7yGFPk6jiN9Qrxw26WIw==
   dependencies:
     clsx "^1.1.0"
     prop-types "^15.5.0"
